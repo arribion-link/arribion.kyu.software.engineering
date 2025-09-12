@@ -65,17 +65,25 @@ npn pull https://github.com/arribion-link/arribion.kyu.software.engineering.git
 
 #### Key Note 
 
+Project content file structure
+
 ```
 ├── src/
 │   ├── assets/
 │   ├── content/
 │   │   └── docs/
+|   |        |___guide/
+|   |        |    |_example.md
+|   |        |___Visual Programming
+|   |        |    |_Page-1.md
+|   |             |_page-2.md
+|   |             |_page-3.md
 ```
 
 Add a new page by including a new markdown  ie:
 
 ```
-vp-basic-component.md
+page-4.md
 ```
 
 ***NOTE***
