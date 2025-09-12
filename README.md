@@ -63,7 +63,30 @@ npn pull https://github.com/arribion-link/arribion.kyu.software.engineering.git
 
 ### 📝 Ways to Contribute to Documentation
 
-Absolutely! Contributing to documentation is a fantastic way to support open source projects—especially if you're not ready to dive into code yet. Here are several impactful ways you can help improve docs:
+#### Key Note 
+
+```
+├── src/
+│   ├── assets/
+│   ├── content/
+│   │   └── docs/
+```
+
+Add a new page by including a new markdown  ie:
+
+```
+vp-basic-component.md
+```
+
+***NOTE***
+
+Each file must have a title and description wrapped in tripple hyphen on top of each markdown file ie:
+```bash
+---
+title: Introduction to visual programming
+description: Learn basics of visual programming
+---
+```
 
 📝 Ways to Contribute to Documentation
 
