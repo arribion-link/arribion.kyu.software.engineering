@@ -1,16 +1,8 @@
-# Starlight Starter Kit: Basics
-
-[![Built with Starlight](https://astro.badg.es/v2/built-with-starlight/tiny.svg)](https://starlight.astro.build)
-
-```
-npm create astro@latest -- --template starlight
-```
-
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+# KYU Software Engineering Visual Programming Unit
 
 ## 🚀 Project Structure
 
-Inside of your Astro + Starlight project, you'll see the following folders and files:
+Inside the Astro project, you'll see the following folders and files:
 
 ```
 .
@@ -44,6 +36,82 @@ All commands are run from the root of the project, from a terminal:
 | `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
 | `npm run astro -- --help` | Get help using the Astro CLI                     |
 
-## 👀 Want to learn more?
+## How To Contribute
 
-Check out [Starlight’s docs](https://starlight.astro.build/), read [the Astro documentation](https://docs.astro.build), or jump into the [Astro Discord server](https://astro.build/chat).
+### Fork and Clone the Repository
+
+- Forking creates your own copy of the project on GitHub.
+- Cloning lets you work on it locally.
+
+### Run the following commands
+
+```bash
+# to install neccessary dependancies run
+npm install
+# to run the project 
+npm run dev
+```
+
+### Create a New Branch and Make Changes
+
+- Always work on a separate branch to keep things organized.
+
+```bash
+# run to check if there are already existing changes and marge them to your project
+npn pull https://github.com/arribion-link/arribion.kyu.software.engineering.git
+```
+
+### 📝 Ways to Contribute to Documentation
+
+Absolutely! Contributing to documentation is a fantastic way to support open source projects—especially if you're not ready to dive into code yet. Here are several impactful ways you can help improve docs:
+
+📝 Ways to Contribute to Documentation
+
+***Fix Typos and Grammar***
+
+- Even small corrections improve clarity and professionalism.
+- Look for spelling errors, punctuation issues, or awkward phrasing.
+
+***Improve Readability***
+
+- Rewrite complex sentences to be more beginner-friendly.
+- Break long paragraphs into bullet points or sections.
+
+***Add Missing Information***
+
+- Fill in gaps where steps are unclear or undocumented.
+- Include examples, screenshots, or diagrams to aid understanding.
+
+***Update Outdated Content***
+
+- Check if instructions match the latest version of the software.
+- Remove deprecated features or update links.
+
+***Organize and Restructure***
+
+- Suggest better navigation, table of contents, or indexing.
+- Create or improve README files, FAQs, or Getting Started guides.
+
+***Write Tutorials or How-To Guides***
+
+- Create beginner-friendly walkthroughs for common tasks.
+- Share your own experience using the project.
+
+***Review and Test Instructions***
+
+- Follow the steps in the docs and report anything that doesn’t work.
+- Suggest improvements based on your testing.
+
+***Add Code Comments***
+
+- Explain complex logic or usage in inline comments.
+- Help others understand the codebase better.
+
+***Contribute to Style Guides***
+
+- Help define consistent tone, formatting, and terminology.
+- Create templates for contributors to follow.
+
+#### Submit a Pull Request (PR)
+
+- A PR is how you propose your changes to be merged into the main project.
